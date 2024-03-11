@@ -1,6 +1,6 @@
-Step 1: Business Inquiry
+Step 1: Business Inquiry:
 
-I am examining a health insurance dataset to forecast future insurance costs, and the dataset can be accessed on GitHub insurance dataset.
+I am examining a health insurance dataset to forecast future insurance costs, and the dataset can be accessed on GitHub [insurance dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance).
 
 The dataset comprises 1338 entries with 7 attributes. The primary goal here is to enhance the accuracy of predicting the target variable. To achieve this, I employ two machine learning models.
 
@@ -21,17 +21,17 @@ Parameters in the dataset include:
 •	Charges: Insurance charges in USD (float).
 
 
-Step 2: Data Processing
+Step 2. Data Processing:
 
-1.	First, I read the data description and checked for null values.
-2.	
-3.	Next, I handled outliers by using boxplots.
+a.	First, I read the data description and checked for null values.
+   
+b.	Next, I handled outliers by using boxplots.
 
 Step 3.	Data Exploration:
    
 Explored the relationships between different features to understand their correlations and impact.
 
-Step 4: Data Modeling
+Step 4: Data Modeling:
 
 I utilized two machine learning models, Decision Tree and Random Forest, to predict insurance costs. 
 
